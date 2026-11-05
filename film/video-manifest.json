@@ -1,0 +1,26 @@
+{
+  "title": "Heavy Rock Bass Riffs",
+  "study": "z5901",
+  "bpm": 108,
+  "source_audio": "preview/heavy-rock-bass-riffs-simple-synth-preview.mp3",
+  "source_audio_sha256": "f572e6abe40b0aadadd9ec6b976de47cbc449b3e83fb05279c77cfa839e11cd3",
+  "source_midi": "midi/z5901-heavy-rock-bass-riffs-opening/z5901-heavy-rock-bass-riffs-opening-combined.mid",
+  "source_midi_sha256": "86f8f272af4365d0c3b5631fb27f1e75dfb6b2f88aad264cde4fc2b57d980d04",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "f9e16a31e525038a85e04df2edfe26aedbb3da2e25b1ae38a950445c6f0f8d5d",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "aefae3fd2966af24048161795e028b4cf15f22b32322c722601ee39665b67408",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "1a36509457100178214fd5d9ee5b103fbc6b0ab318ff72179d32434ce8f4bc34",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

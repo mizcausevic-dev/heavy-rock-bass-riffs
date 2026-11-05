@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:58:29.535783+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z5901-heavy-rock-bass-riffs-opening/chord_pulse.mid",
+      "bytes": 1240,
+      "sha256": "e021807e9f58f88db100c242af25fdd2e0fd07ce575ce4781a55d4386eafb055",
+      "errors": []
+    },
+    {
+      "path": "midi/z5901-heavy-rock-bass-riffs-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "a23c305ceb16bb5196e89686f1161eaaa67c8e5dff178583e4a25b82a2994249",
+      "errors": []
+    },
+    {
+      "path": "midi/z5901-heavy-rock-bass-riffs-opening/drums.mid",
+      "bytes": 2674,
+      "sha256": "ab11930a48afaa7e126e0c50fb6987bcea3d908664bec148cb90dcd7ad2b8d56",
+      "errors": []
+    },
+    {
+      "path": "midi/z5901-heavy-rock-bass-riffs-opening/principal_motif.mid",
+      "bytes": 797,
+      "sha256": "3010765a56fa1d59d563d51791fb7be62fb269a4c26121ed2f713334262de43c",
+      "errors": []
+    },
+    {
+      "path": "midi/z5901-heavy-rock-bass-riffs-opening/sub_bass.mid",
+      "bytes": 797,
+      "sha256": "830711e68547eeeae08c3a140288c27423f7f94e5c8a3de6a931e1e442b1b0fc",
+      "errors": []
+    },
+    {
+      "path": "midi/z5901-heavy-rock-bass-riffs-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "17726c6a8c23b0bff6c63a0f74a590601f8915ca570174b5bab1f6d6bf44f981",
+      "errors": []
+    },
+    {
+      "path": "midi/z5901-heavy-rock-bass-riffs-opening/z5901-heavy-rock-bass-riffs-opening-combined.mid",
+      "bytes": 5666,
+      "sha256": "86f8f272af4365d0c3b5631fb27f1e75dfb6b2f88aad264cde4fc2b57d980d04",
+      "errors": []
+    },
+    {
+      "path": "midi/z5902-heavy-rock-bass-riffs-variation/chord_pulse.mid",
+      "bytes": 1240,
+      "sha256": "c54b2fc45de03408b1414875a27ce85a4d43a2a8a3234b116722ec4440b4a6f5",
+      "errors": []
+    },
+    {
+      "path": "midi/z5902-heavy-rock-bass-riffs-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "c6a001bcf25979e448fd80ccf7bbd21eeda2bb644beda727298bcc45fd8dca2e",
+      "errors": []
+    },
+    {
+      "path": "midi/z5902-heavy-rock-bass-riffs-variation/drums.mid",
+      "bytes": 2674,
+      "sha256": "ab11930a48afaa7e126e0c50fb6987bcea3d908664bec148cb90dcd7ad2b8d56",
+      "errors": []
+    },
+    {
+      "path": "midi/z5902-heavy-rock-bass-riffs-variation/principal_motif.mid",
+      "bytes": 797,
+      "sha256": "ab2a0fc3e337dd6c04bff132a48570d82e99a1ccae9a30c6654f873ceb61d309",
+      "errors": []
+    },
+    {
+      "path": "midi/z5902-heavy-rock-bass-riffs-variation/sub_bass.mid",
+      "bytes": 797,
+      "sha256": "c80e31559974e2331766c883877d6e3605cffd02a5e3f9b282297e4d982c1683",
+      "errors": []
+    },
+    {
+      "path": "midi/z5902-heavy-rock-bass-riffs-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "8b32923bde827b6715a24cb657766d801c2e0b65d8161690dbc97d97c1a9ac05",
+      "errors": []
+    },
+    {
+      "path": "midi/z5902-heavy-rock-bass-riffs-variation/z5902-heavy-rock-bass-riffs-variation-combined.mid",
+      "bytes": 5666,
+      "sha256": "e3ec9e0e254fbfb8b99ea955911d4157a63068582e0d0f3cdde19688fd921b5b",
+      "errors": []
+    },
+    {
+      "path": "midi/z5903-heavy-rock-bass-riffs-contrast/chord_pulse.mid",
+      "bytes": 1240,
+      "sha256": "d910dac78b385c153b47fbe1f0526483750d5a5033f5e2cec1b5855696edc835",
+      "errors": []
+    },
+    {
+      "path": "midi/z5903-heavy-rock-bass-riffs-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "6e9f46002a06263a5d13b368a9e3e344d303b6f0628cc96c108c53d1fe77ff07",
+      "errors": []
+    },
+    {
+      "path": "midi/z5903-heavy-rock-bass-riffs-contrast/drums.mid",
+      "bytes": 2674,
+      "sha256": "ab11930a48afaa7e126e0c50fb6987bcea3d908664bec148cb90dcd7ad2b8d56",
+      "errors": []
+    },
+    {
+      "path": "midi/z5903-heavy-rock-bass-riffs-contrast/principal_motif.mid",
+      "bytes": 765,
+      "sha256": "d14f0f4dfb0e18dfe9e2bf16d4170784621514baadcbca32dd9aa635229fe1bb",
+      "errors": []
+    },
+    {
+      "path": "midi/z5903-heavy-rock-bass-riffs-contrast/sub_bass.mid",
+      "bytes": 797,
+      "sha256": "0cc12a70909bbc07daf6eb977393b913c43db91a8e2935b498e97ebcd6ec136b",
+      "errors": []
+    },
+    {
+      "path": "midi/z5903-heavy-rock-bass-riffs-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "4110e432082db516bf8d587acfcb71c150b0144085cc554115fe8cc301108fcf",
+      "errors": []
+    },
+    {
+      "path": "midi/z5903-heavy-rock-bass-riffs-contrast/z5903-heavy-rock-bass-riffs-contrast-combined.mid",
+      "bytes": 5634,
+      "sha256": "96485218a046d05480d6a34fed930a59a6dedb24b524a18890b4506844883a68",
+      "errors": []
+    },
+    {
+      "path": "midi/z5904-heavy-rock-bass-riffs-return/chord_pulse.mid",
+      "bytes": 1240,
+      "sha256": "4ceefacb07d55cd9b84fe07c6ea43a5f07aa88b4f08114fc093dd327766ea9ec",
+      "errors": []
+    },
+    {
+      "path": "midi/z5904-heavy-rock-bass-riffs-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "fb9f117b0c77d42a886a9f9b1adf67fc7c4df8677a6b5e4e3c3ca374b6ef42a5",
+      "errors": []
+    },
+    {
+      "path": "midi/z5904-heavy-rock-bass-riffs-return/drums.mid",
+      "bytes": 2674,
+      "sha256": "ab11930a48afaa7e126e0c50fb6987bcea3d908664bec148cb90dcd7ad2b8d56",
+      "errors": []
+    },
+    {
+      "path": "midi/z5904-heavy-rock-bass-riffs-return/principal_motif.mid",
+      "bytes": 765,
+      "sha256": "caef1f2e7259b2f613a382149d5377b46c9764cf2edb66f63cd4966385705dc0",
+      "errors": []
+    },
+    {
+      "path": "midi/z5904-heavy-rock-bass-riffs-return/sub_bass.mid",
+      "bytes": 797,
+      "sha256": "7780e59f61ce440102103e892b11488a1075e8c5dc2f9081da57fb3e0aa4e4a1",
+      "errors": []
+    },
+    {
+      "path": "midi/z5904-heavy-rock-bass-riffs-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "e277b6b4a7383945cd314d9ed2b6b7b8b0d6ab293531875daf03c62717bec2c2",
+      "errors": []
+    },
+    {
+      "path": "midi/z5904-heavy-rock-bass-riffs-return/z5904-heavy-rock-bass-riffs-return-combined.mid",
+      "bytes": 5634,
+      "sha256": "12c276a5240bf8ae1aa8606876b812a31609c9ce5d270b52fadb096206d1dfdd",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}
