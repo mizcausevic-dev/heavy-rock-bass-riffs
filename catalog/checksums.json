@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/heavy-rock-bass-riffs-midi.zip",
-      "bytes": 31002,
-      "sha256": "27dc5df6e17db829b6a3a0157049f6ad4f5df9c78f88f59216d603e3747a74e7"
+      "bytes": 31989,
+      "sha256": "db9b2b1c5b3a64e2a9c16d655b6e93b98d09e844d59d555097c00bfc7d2b8300"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9948,
-      "sha256": "7ba2b0ff2542231bc61d2a8b6bd452b9329eb4347d597e3163376e6f1bdf1b93"
+      "bytes": 10138,
+      "sha256": "bf82aab8a9dc439a12d08b4d7688cdcc05a87ed63e583488db07503474f1dbb3"
     },
     {
       "path": "midi/z5901-heavy-rock-bass-riffs-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "12c276a5240bf8ae1aa8606876b812a31609c9ce5d270b52fadb096206d1dfdd"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/heavy-rock-bass-riffs-simple-synth-preview.mp3",
       "bytes": 1720364,
       "sha256": "f572e6abe40b0aadadd9ec6b976de47cbc449b3e83fb05279c77cfa839e11cd3"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3968,
-      "sha256": "8df10bd07dcc8dfad38b50bccf43909b22ef2c428de4a4d49e632fc65d31751d"
+      "bytes": 4083,
+      "sha256": "60e899731620e5502da7201af2de50cd2cf7225cd536e118e7dbb3eb5497a503"
     },
     {
       "path": "social/instagram/caption.txt",
